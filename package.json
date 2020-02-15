@@ -1,0 +1,19 @@
+{
+  "name": "parking_detection",
+  "version": "1.0.0",
+  "description": "VT Hacks 2020 Parking Detection Hack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uzair318/Parking-Detection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uzair318/Parking-Detection/issues"
+  },
+  "homepage": "https://github.com/Uzair318/Parking-Detection#readme"
+}
